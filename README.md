@@ -7,7 +7,7 @@ Uses X11 and a GFX library provided to me by my Fall 2022 Fundamentals of Comput
 
 # Setup
 
-Compiles with the gfx.o and gfx.h files included in the submission folder. Can use either `make all` or `make slider`.
+Compiles with the gfx.o and gfx.h files included in the submission folder. Includes a Makefile; can use either `make all` or `make slider`.
 Requires an X11 session; my class used the XLaunch app to start a local server and ran the code on Linux student machines we SSH into. My laptop ran Windows at the time of the last successful test.
 
 
