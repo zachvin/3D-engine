@@ -5,6 +5,12 @@ Runs a primitive 3D engine to project 3D objects onto the 2D screen. Includes a 
 Uses X11 and a GFX library provided to me by my Fall 2022 Fundamentals of Computing professor at the University of Notre Dame.
 
 
+# Setup
+
+Compiles with the gfx.o and gfx.h files included in the submission folder. Can use either `make all` or `make slider`.
+Requires an X11 session; my class used the XLaunch app to start a local server and ran the code on Linux student machines we SSH into. My laptop ran Windows at the time of the last successful test.
+
+
 # Thoughts
 
 Running my submission again after two months of not seeing it, I was pleasantly surprised with how it looked. I implemented a few quick features to compensate for my time crunch (final exams were upcoming). Here are a few:
