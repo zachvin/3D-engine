@@ -5,13 +5,13 @@ Runs a primitive 3D engine to project 3D objects onto the 2D screen. Includes a 
 Uses X11 and a GFX library provided to me by my Fall 2022 Fundamentals of Computing professor at the University of Notre Dame.
 
 
-# Setup
+## Setup
 
 Compiles with the gfx.o and gfx.h files included in the submission folder. Includes a Makefile; can use either `make all` or `make slider`.
 Requires an X11 session; my class used the XLaunch app to start a local server and ran the code on Linux student machines we SSH into. My laptop ran Windows at the time of the last successful test.
 
 
-# Thoughts
+## Thoughts
 
 Running my submission again after two months of not seeing it, I was pleasantly surprised with how it looked. I implemented a few quick features to compensate for my time crunch (final exams were upcoming). Here are a few:
 
@@ -22,3 +22,14 @@ Running my submission again after two months of not seeing it, I was pleasantly 
   * __Shading:__ Another byproduct of making the shapes from cubes rather than faces is that there would be another layer of complication in determining distance of faces from the camera to calculate the render order (farther items are rendered first; closer items are rendered last, "over" the farther items. I solved this problem for the purposes of the project submission by making the top surface of every square have more opaque edges to differentiate between surfaces.
 
   * __Motion:__ Simply put, the game lacks life. Little motion details required more time than I had and risked compilation errors when my main goal at that point was just to get a working submission in and start stsudying for some other exams.
+
+## Screenshots
+
+<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/13be4729-5c66-48b6-a638-523892f94fa6" />
+
+Demonstration of perspective zoom:
+
+<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/219b0664-8360-445b-92e4-c35d9ea1ea65" />
+
+<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/4aa7dc34-bc69-4e69-bb4f-1ffabdd28662" />
+
