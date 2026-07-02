@@ -23,13 +23,8 @@ Running my submission again after two months of not seeing it, I was pleasantly 
 
   * __Motion:__ Simply put, the game lacks life. Little motion details required more time than I had and risked compilation errors when my main goal at that point was just to get a working submission in and start stsudying for some other exams.
 
-## Screenshots
+## Demonstration
 
-<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/13be4729-5c66-48b6-a638-523892f94fa6" />
+Unfortunately, the screencast compression seems to have changed the colors.
 
-Demonstration of perspective zoom:
-
-<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/219b0664-8360-445b-92e4-c35d9ea1ea65" />
-
-<img width="636" height="631" alt="image" src="https://github.com/user-attachments/assets/4aa7dc34-bc69-4e69-bb4f-1ffabdd28662" />
-
+[Screencast from 2026-07-02 17-28-06.webm](https://github.com/user-attachments/assets/359451b5-38ee-4768-9c2a-ce8aa61ffa9d)
